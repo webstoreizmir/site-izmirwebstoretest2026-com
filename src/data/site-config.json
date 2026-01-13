@@ -1,120 +1,89 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "İzmir Webstore | Web Tasarım ve Yazılım Çözümleri",
+    "description": "İzmir Webstore, girişimciler ve küçük işletmeler için modern web tasarım, e-ticaret, SEO ve Android uygulama hizmetleri sunan profesyonel bir yazılım ajansıdır. Dijitalde güven, tasarımda fark yaratıyoruz."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#E63946",
+      "secondary": "#F4A2B8",
+      "background": "#FFFFFF",
+      "text": "#1A202C"
     },
     "fonts": {
-      "heading": "Montserrat",
+      "heading": "Inter",
       "body": "Inter"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "logo": "https://www.izmirwebstore.com/wp-content/uploads/2025/11/wslogo-scaled-e1762797858770.png",
+    "hero_keyword": "modern minimalist office with code on screen",
+    "about_keyword": "diverse software development team collaborating in İzmir",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "user interface design process",
+      "secure e-commerce checkout page",
+      "seo analytics dashboard on laptop"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "Dijitalde Güven, Tasarımda Fark Yaratıyoruz",
+      "subheadline": "İşletmenizin dijital kimliğini, hedeflerinize özel tasarlanmış modern ve sonuç odaklı web çözümleriyle güçlendiriyoruz.",
+      "ctaButtonText": "Ücretsiz Teklif Al"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Hakkımızda",
+      "description": "WebStore; işletmelerin dijital dünyada profesyonel, modern ve sonuç odaklı bir kimlik kazanması için kurulmuş bir web tasarım ve yazılım markasıdır. İzmir merkezli ekibimizle, web sitesi tasarımından e-ticaret çözümlerine, SEO’dan Android uygulamalara kadar markaların dijital dönüşümüne rehberlik ediyoruz. Hazır kalıplar yerine, işletmenin yapısına, sektörüne ve hedeflerine göre özel çözümler üretiriz.",
       "stats": [
         {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
+          "value": "Yüksek",
+          "label": "Hız ve Performans"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
+          "value": "Özgün",
+          "label": "Tasarım Kalitesi"
         },
         {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "value": "100%",
+          "label": "Müşteri Memnuniyeti"
         }
       ]
     },
     "services": [
       {
         "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
+        "description": "Marka kimliğinizi yansıtan, mobil uyumlu ve kullanıcı dostu web siteleri tasarlıyoruz.",
+        "icon": "🎨"
       },
       {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
-        "icon": "🚀"
+        "title": "E-Ticaret Sistemleri",
+        "description": "Güvenli altyapı ve modern tasarımlarla, satışlarınızı artıracak anahtar teslim e-ticaret çözümleri sunuyoruz.",
+        "icon": "🛒"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
+        "title": "Android Uygulama",
+        "description": "İşletmenizin ihtiyaçlarına özel, yenilikçi ve yüksek performanslı mobil uygulamalar geliştiriyoruz.",
         "icon": "📱"
+      },
+      {
+        "title": "SEO & Optimizasyon",
+        "description": "Arama motorlarında üst sıralara çıkarak hedef kitlenize daha kolay ulaşmanızı sağlıyoruz.",
+        "icon": "🔍"
+      },
+      {
+        "title": "Dijital Pazarlama",
+        "description": "Marka bilinirliğinizi ve dönüşüm oranlarınızı artırmak için stratejik pazarlama kampanyaları yürütüyoruz.",
+        "icon": "📈"
       }
     ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
-      },
-      {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
-      }
-    ],
-    "process": [
-      {
-        "step": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
-      },
-      {
-        "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
-      },
-      {
-        "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
-      }
-    ],
-    "faq": [
-      {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
-      },
-      {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
-      },
-      {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
-      }
-    ],
+    "process": [],
+    "faq": [],
+    "testimonials": [],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "Kemal Reis, Konak, İzmir",
+      "phone": "05541103132",
+      "email": "info@izmirwebstore.com"
     }
   }
 }
